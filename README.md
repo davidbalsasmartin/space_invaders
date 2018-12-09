@@ -1,6 +1,7 @@
 # Space Invaders 👾
 
-_Juego 2D arcade en Phaser 3 reaizado por David Balsas Martín para la asignatura: “Desarrollo web en entorno cliente”, en el grado superior: 2º “Desarrollo de Aplicaciones Web”, cursado en IES Campanillas (Málaga)._
+_Juego 2D arcade en Phaser 3_
+Realizado por David Balsas Martín para la asignatura: “Desarrollo web en entorno cliente”, en el grado superior: 2º “Desarrollo de Aplicaciones Web”, cursado en IES Campanillas (Málaga)._
 ## Introducción:
 
 Para instalar es necesario acceder a la carpeta del proyecto y ejecutar:
